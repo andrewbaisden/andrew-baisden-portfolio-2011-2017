@@ -1,6 +1,6 @@
 # Portfolio Website 2011 - 2017
 
-![Portfolio Website 2011 - 2017](https://res.cloudinary.com/d74fh3kw/image/upload/v1582387258/portfolio_2011_2017_h2jfl9.jpg "Portfolio Website 2011 - 2017")
+![Portfolio Website 2011 - 2017](img/portfolio-2011-2017.jpeg "Portfolio Website 2011 - 2017")
 
 This app uses an outdated codebase follow the Quick Setup intructions if you want to see the app running locally with little effort.
 
